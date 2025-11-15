@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Thailand Tour – The Land of Smiles",
+    "price": "$659 / PER",
+    "desc": "Experience the vibrant beaches, rich culture, and nightlife of Thailand in one unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033583/thailand_kv7iuu.jpg",
+    "slug": "thailand-tour"
+  },
+  {
+    "id": 2,
+    "title": "Dubai Tour – The City of Wonders",
+    "price": "$799 / PER",
+    "desc": "Discover the glamour of Dubai — from towering skyscrapers and desert adventures to world-class shopping and golden beaches.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033587/dub_lmlbrz.webp",
+    "slug": "bali-tour"
+  },
+    {
+    "id": 2,
+    "title": "Vietnam Tour – Land of Timeless Beauty",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033592/viet_oes4ij.jpg",
+    "slug": "bali-tour"
+  },
+  {
+    "id": 2,
+    "title": "Singapore Tour – The Garden City Adventure",
+    "price": "$799 / PER",
+    "desc": "Discover Singapore — a dazzling blend of modern marvels, lush gardens, and rich multicultural experiences in one vibrant city-state.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033585/singapore_ybuo1d.jpg",
+    "slug": "bali-tour"
+  },
+  {
+    "id": 2,
+    "title": "Kazakhstan Tour – Steppe & Culture Expedition",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033585/kzakstan_mi0i8c.png",
+    "slug": "kazakhastan-tour"
+  },
+  {
+    "id": 2,
+    "title": "Bali Tour – Tropical Paradise Escape",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033580/baliblisss_aqpm1m.avif",
+    "slug": "bali-tour"
+  },
+  {
+    "id": 2,
+    "title": "South Korea Tour – Modern Wonders & Tradition",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033577/southkorea_hyvrrl.avif",
+    "slug": "southkorea-tour"
+  },
+  {
+    "id": 2,
+    "title": "Hong Kong Tour – Urban Adventure & Harbor Views",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033577/hongkong_lx4wfe.webp",
+    "slug": "Hong-tour"
+  },
+    {
+    "id": 2,
+    "title": "Maldives TourMaldives Tour – Tropical Paradise",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033577/mald_fsxvdi.jpg",
+    "slug": "Maldives-tour"
+  },
+  {
+    "id": 2,
+    "title": "Azerbaijan Tour – Land of Fire and Culture",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033577/azerbaizan_htpbtg.jpg",
+    "slug": "Azerbaizan-tour"
+  },
+  {
+    "id": 2,
+    "title": "Japan Tour – Land of the Rising Sun",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033571/jpan_nxatbx.jpg",
+    "slug": "Japan-tour"
+  },
+    {
+    "id": 2,
+    "title": "Cambodia Tour – Explore Ancient Wonders",
+    "price": "$799 / PER",
+    "desc": "Uncover the charm of Vietnam — where timeless culture, scenic landscapes, and vibrant street life create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763033568/combo_hwqukh.jpg",
+    "slug": "Combodia-tour"
+  }
+]

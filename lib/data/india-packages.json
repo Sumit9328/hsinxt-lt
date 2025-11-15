@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Manali Volvo Package",
+    "price": "$659 / PER",
+    "desc": "Experience a scenic escape to the hills with our Manali Volvo Package — where adventure, tranquility, and breathtaking mountain views await you!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028701/mnalivolvo_pdlgel.avif",
+    "slug": "ManaliVolvo-tour"
+  },
+  {
+    "id": 2,
+    "title": "Shimla Manali Tour",
+    "price": "$699 / PER",
+    "desc": "Discover the perfect blend of nature and charm with our Shimla Manali Tour — snow-capped peaks, pine forests, and unforgettable Himalayan adventures await!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028507/mn_shi_lwnsle.jpg",
+    "slug": "Shimla-tour"
+  },
+  {
+    "id": 2,
+    "title": "Complete Himachal Package",
+    "price": "$699 / PER",
+    "desc": "Explore the best of the mountains with our Complete Himachal Package — from Shimla to Manali, experience nature, culture, and adventure in one unforgettable journey!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028764/him_kxqda0.webp",
+    "slug": "Himachal-tour"
+  },
+  {
+    "id": 2,
+    "title": "Leh Ladakh Tour",
+    "price": "$699 / PER",
+    "desc": "Embark on the ultimate Leh Ladakh Tour — discover breathtaking landscapes, ancient monasteries, and thrilling mountain adventures on the road to paradise!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028505/leh_f7iah9.jpg",
+    "slug": "Ladakh-tour"
+  },
+  {
+    "id": 2,
+    "title": "Golden Triangle Tour",
+    "price": "$699 / PER",
+    "desc": "Experience India’s heritage with the Golden Triangle Tour — explore the royal charm of Delhi, Agra, and Jaipur in one unforgettable journey!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028507/triangle_x3ywrl.webp",
+    "slug": "Golden-tour"
+  },
+  {
+    "id": 2,
+    "title": "Complete South Indian Tour",
+    "price": "$699 / PER",
+    "desc": "Discover the beauty of South India — serene backwaters, ancient temples, lush hills, and rich cultural heritage in one unforgettable journey",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763030485/southindian_combbi.png",
+    "slug": "Rajasthan-tour"
+  },
+  {
+    "id": 2,
+    "title": "Jammu & Kashmir Tour",
+    "price": "$699 / PER",
+    "desc": "Experience paradise on earth with our Jammu & Kashmir Tour — snow-capped peaks, serene lakes, and timeless beauty await!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028529/j_k_iyveu3.jpg",
+    "slug": "Kashmir-tour"
+  },
+  {
+    "id": 2,
+    "title": "Lakshdweep Tour",
+    "price": "$699 / PER",
+    "desc": "Escape to the tropical paradise of Lakshadweep — crystal-clear waters, coral reefs, and pristine beaches await your perfect getaway",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028532/laksh_cjaxye.jpg",
+    "slug": "Lakshdweep-tour"
+  },
+  {
+    "id": 2,
+    "title": "Darjeeling Gangtok Tour",
+    "price": "$699 / PER",
+    "desc": "Experience the charm of Darjeeling — lush tea gardens, misty hills, and breathtaking views of the Himalayas!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028536/darjeling_bbjouo.webp",
+    "slug": "Darjeeling-tour"
+  },
+  {
+    "id": 2,
+    "title": "India Honey Moon Speicial Tour",
+    "price": "$699 / PER",
+    "desc": "Celebrate love and togetherness with our India Honeymoon Special Tour — romantic destinations, serene stays, and unforgettable memories await",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028529/indianhoney_ph8lot.jpg",
+    "slug": "HoneyMoon-tour"
+  },
+  {
+    "id": 2,
+    "title": "North India With Nepal Tour",
+    "price": "$699 / PER",
+    "desc": "Explore the wonders of North India and the serenity of Nepal — a perfect blend of culture, nature, and spirituality!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028528/northnepal_a0vqpl.jpg",
+    "slug": "Nepal-tour"
+  },
+  {
+    "id": 2,
+    "title": "Rustic Rajasthan Tour",
+    "price": "$699 / PER",
+    "desc": "Experience the timeless charm of rural Rajasthan — vibrant villages, desert landscapes, and authentic cultural traditions!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028519/rusticrajasthan_z8onla.webp",
+    "slug": "Rajasthan-tour"
+  },
+   {
+    "id": 2,
+    "title": "Pushkar Festival Tour",
+    "price": "$699 / PER",
+    "desc": "Immerse yourself in the vibrant colors, sacred rituals, and cultural festivities of the world-famous Pushkar Festival!",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028518/pushkar_rzdbuo.jpg",
+    "slug": "Pushkar-tour"
+  },
+   {
+    "id": 2,
+    "title": "Ananda Spa Tour",
+    "price": "$699 / PER",
+    "desc": "Rejuvenate your mind, body, and soul with holistic wellness therapies at the luxurious Ananda Spa in the Himalayas.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028517/spa_cyolaj.jpg",
+    "slug": "Ananda-tour"
+  },
+   {
+    "id": 2,
+    "title": "Luxury Train Tour",
+    "price": "$699 / PER",
+    "desc": "Experience India in royal style aboard its iconic luxury trains, blending opulent comfort with timeless heritage travel.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028509/luxury_ov7de2.jpg",
+    "slug": "LuxuryTrain-tour"
+  },
+   {
+    "id": 2,
+    "title": "Indian Pilgrimage Tour",
+    "price": "$699 / PER",
+    "desc": "Embark on a sacred journey across India’s revered temples and holy sites, discovering peace, devotion, and spiritual awakening.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028508/pilgrimage_l6cxkt.jpg",
+    "slug": "Pilgrimage-tour"
+  },
+  {
+    "id": 2,
+    "title": "Indian Jungle Tour",
+    "price": "$699 / PER",
+    "desc": "Experience the thrill of India’s wild side with jungle safaris, exotic wildlife encounters, and nature at its most untamed.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763028520/indianjungle_umgiv3.jpg",
+    "slug": "Jungle-tour"
+  },
+  {
+    "id": 2,
+    "title": "Romantic Hill Station Tour",
+    "price": "$699 / PER",
+    "desc": "Escape to the misty hills and cozy retreats with your loved one on a perfect romantic hill station getaway.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763030657/romhillstations_mypomk.webp",
+    "slug": "Romantic-tour"
+  }
+]

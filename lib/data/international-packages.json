@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "title": "Wonder of UK and Scotland",
+    "price": "$659 / PER",
+    "desc": "Embark on an unforgettable journey through the UK and Scotland, where historic landmarks, stunning landscapes, and vibrant cultures come together to create the perfect travel experience.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115716/wonders_he5yw3.webp",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "European Honeymoon Special",
+    "price": "$659 / PER",
+    "desc": "Embark on a romantic journey through Europe's most enchanting destinations, perfect for creating unforgettable honeymoon memories.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115719/europeanhoneymoon_u85njc.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Western Europe Wonders",
+    "price": "$659 / PER",
+    "desc": "Discover the iconic landmarks and rich history of Western Europe, from the Eiffel Tower to the canals of Amsterdam.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115715/westerneurope_a0evst.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Eastern Europe Discovery",
+    "price": "$659 / PER",
+    "desc": "Unveil the hidden gems and rich heritage of Eastern Europe, with its charming cities, medieval castles, and stunning landscapes.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115753/easterneurope_ras6ih.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Mediterranean Magic Special",
+    "price": "$659 / PER",
+    "desc": "Experience the sun-kissed beauty and vibrant cultures of the Mediterranean, from sparkling coastlines to ancient ruins and picturesque islands.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115747/medimagic_loqdu7.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Balkan Special",
+    "price": "$659 / PER",
+    "desc": "Explore the diverse landscapes, rich history, and vibrant cultures of the Balkans, from stunning coastlines to charming villages and ancient ruins",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115721/balkan_uskh9z.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Central Europe Charm",
+    "price": "$659 / PER",
+    "desc": "Immerse yourself in the timeless beauty of Central Europe, where fairy-tale castles, cobblestone streets, and rich history await.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114558/centraleurope_hsnwle.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Scandinavian Splendo",
+    "price": "$659 / PER",
+    "desc": "Discover the breathtaking landscapes and vibrant cultures of Scandinavia, from the Northern Lights to stunning fjords and charming cities",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114549/scandinavian_dz0m6b.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Magical Maldives",
+    "price": "$659 / PER",
+    "desc": "Escape to the pristine paradise of the Maldives, with its crystal-clear waters, white sandy beaches, and luxurious resorts.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114555/magicalmaldives_zbrv9q.png",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Dubai Luxury Experience",
+    "price": "$659 / PER",
+    "desc": "Indulge in the ultimate luxury with Dubai’s world-class shopping, stunning skyscrapers, and unmatched experiences in the heart of the desert.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114520/dubailuxury_mwdgfi.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Enchanting Azerbaizan Baku",
+    "price": "$659 / PER",
+    "desc": "Experience the fusion of ancient history and modern marvels in Baku, Azerbaijan, with its futuristic skyline, vibrant culture, and stunning landscapes.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114519/azerbaku_zmy1kv.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Timeless Thailand",
+    "price": "$659 / PER",
+    "desc": "Explore the rich culture, golden temples, stunning beaches, and vibrant markets of Thailand, a land of endless beauty and adventure.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114550/timelessthailnd_vjepbu.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Vietnam Vibes",
+    "price": "$659 / PER",
+    "desc": "Immerse yourself in the breathtaking landscapes, rich history, and vibrant culture of Vietnam, from lush rice terraces to bustling cities and serene coastlines.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114520/vietnamibes_xkxnrk.webp",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Singapore Malaysia",
+    "price": "$659 / PER",
+    "desc": "Experience the perfect blend of modern luxury and cultural heritage in Singapore and Malaysia, with iconic skylines, lush jungles, and vibrant cities.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114521/singamal_k08zkb.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Magical Combodia Trip",
+    "price": "$659 / PER",
+    "desc": "Discover the ancient wonders of Cambodia, from the majestic Angkor Wat to charming villages and lush landscapes, all steeped in rich history and culture.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114522/magicalcombodia_yjpmzf.webp",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Kenya Safari Trip",
+    "price": "$659 / PER",
+    "desc": "Embark on an unforgettable adventure through Kenya's iconic safaris, where you can witness the majestic wildlife and breathtaking landscapes of the African savannah",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114529/kenyasafari_esrjgx.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Indonesia Bali Bliss",
+    "price": "$659 / PER",
+    "desc": "Escape to the tropical paradise of Bali, where lush landscapes, pristine beaches, and vibrant culture create the perfect blend of relaxation and adventure.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114524/indobali_kiblmi.avif",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Enchanting China",
+    "price": "$659 / PER",
+    "desc": "Unveil the ancient wonders and modern marvels of China, from the Great Wall to the vibrant streets of Shanghai and the peaceful landscapes of the countryside.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114525/china_lldclc.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Hong Kong Trip",
+    "price": "$659 / PER",
+    "desc": "Experience the dynamic blend of tradition and modernity in Hong Kong, with its towering skyscrapers, vibrant markets, and rich cultural heritage",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114527/hongkong_bfi5tj.webp",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Macau Special",
+    "price": "$659 / PER",
+    "desc": "Discover the unique charm of Macau, where colonial history meets modern luxury, offering vibrant casinos, stunning architecture, and a rich cultural blend.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114533/macau_ct04zb.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Flavours of Georgia",
+    "price": "$659 / PER",
+    "desc": "Discover the rich flavours and warm hospitality of Georgia, where ancient wine culture, scenic landscapes, and vibrant traditions create an unforgettable journey.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114532/GEORG_pp4b4s.avif",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Essence of Japan",
+    "price": "$659 / PER",
+    "desc": "Immerse yourself in Japan’s timeless beauty, where ancient temples, stunning landscapes, and modern cities like Tokyo come together in perfect harmony.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763114560/essenseofjapan_w4h3gh.webp",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Wonders of Turkey",
+    "price": "$659 / PER",
+    "desc": "Explore the enchanting blend of ancient history, stunning landscapes, and vibrant culture in Turkey, from the ruins of Ephesus to the magical landscapes of Cappadocia.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763115715/turkey_rdj1bl.jpg",
+    "slug": "Scotland-tour"
+  },
+  {
+    "id": 1,
+    "title": "Amazing Australia",
+    "price": "$659 / PER",
+    "desc": "Experience the diverse beauty of Australia, from the iconic Great Barrier Reef to the rugged Outback and vibrant cities like Sydney and Melbourne.",
+    "img": "https://res.cloudinary.com/dz50mmo0k/image/upload/v1763119316/australia_t0fq5b.webp",
+    "slug": "Scotland-tour"
+  }
+]
